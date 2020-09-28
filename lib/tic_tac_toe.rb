@@ -130,7 +130,8 @@ def winner(board)
   if combo_array = won?(board)
     #no iterations here
     index = combo_array[0]
-    puts "Congratulations player #{board[index]}"
     return board[index]
   end
 end
+
+def congratulate(winner(board))
