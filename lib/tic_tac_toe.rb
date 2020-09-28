@@ -58,7 +58,7 @@ def move(board, index, character)
   #character = current_player(board)
 # if valid_move?(board, index)
     board[index] = character
-  end
+  #end
 end
 
 
