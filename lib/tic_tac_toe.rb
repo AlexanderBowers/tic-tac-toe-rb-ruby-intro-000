@@ -44,13 +44,11 @@ end
 
 
 def valid_range?(index)
-   #binding.pry
   good_range = index >= 0 && index < 9
 return good_range
 end
 
 def valid_move?(board, index)
-  #binding.pry
 !position_taken?(board, index) && valid_range?(index)
 end
 
