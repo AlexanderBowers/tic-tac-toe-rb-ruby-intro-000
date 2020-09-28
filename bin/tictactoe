@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 input = 10
-index = 1
+index = 10
 WIN_COMBINATIONS =
  [
   [0, 1, 2],
