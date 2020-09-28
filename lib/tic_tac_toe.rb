@@ -41,6 +41,7 @@ def current_player(board)
     previous_player = "X"
     return X
   else
+    previous_player = "O"
     return "O"
   end
 end
