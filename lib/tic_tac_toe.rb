@@ -138,4 +138,5 @@ def congratulate
   if winner(board) == "X"
     puts "Congratulations X!"
   elsif winner(board) == "O"
-    puts "Congratulations O"
+    puts "Congratulations O!"
+  else puts "Cat's game!"
