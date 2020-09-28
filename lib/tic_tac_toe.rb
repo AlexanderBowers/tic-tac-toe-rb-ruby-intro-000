@@ -136,4 +136,6 @@ end
 
 def congratulate
   if winner(board) == "X"
-    puts "Congratulations #{winner(board)}"
+    puts "Congratulations X!"
+  elsif winner(board) == "O"
+    puts "Congratulations O"
