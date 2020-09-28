@@ -6,5 +6,5 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 puts "Welcome to Tic Tac Toe!"
 display_board(board)
-=begin greeting(input)
+greeting(input)
 input_to_index(input)
