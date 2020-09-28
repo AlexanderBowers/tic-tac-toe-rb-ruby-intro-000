@@ -3,14 +3,14 @@
     "coverage": {
       "/home/stellar-system-4040/tic-tac-toe-rb-ruby-intro-000/lib/tic_tac_toe.rb": [
         1,
-        0,
-        0,
+        3,
+        3,
         null,
         null,
         1,
-        23,
-        23,
-        23,
+        26,
+        26,
+        26,
         null,
         null,
         1,
@@ -69,8 +69,8 @@
         null,
         null,
         1,
-        19,
-        19,
+        22,
+        22,
         19,
         19,
         1,
@@ -139,6 +139,6 @@
         null
       ]
     },
-    "timestamp": 1601314073
+    "timestamp": 1601315095
   }
 }
