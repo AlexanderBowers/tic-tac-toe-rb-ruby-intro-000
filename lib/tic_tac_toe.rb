@@ -1,5 +1,4 @@
 def greeting(input)
-puts "Please enter 1-9:"
 return input
 end
 
