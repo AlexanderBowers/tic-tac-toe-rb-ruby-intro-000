@@ -133,3 +133,7 @@ def winner(board)
     return board[index]
   end
 end
+
+def congratulate
+  if winner(board) == "X"
+    puts "Congratulations #{winner(board)}"
