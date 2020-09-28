@@ -133,4 +133,3 @@ def winner(board)
     return board[index]
   end
 end
-
