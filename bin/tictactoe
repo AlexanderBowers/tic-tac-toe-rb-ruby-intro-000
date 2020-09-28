@@ -6,7 +6,7 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 puts "Welcome to Tic Tac Toe!"
 display_board(board)
-greeting(input)
+=begin greeting(input)
 input_to_index(input)
 position_taken?(board, index)
 current_player(board)
