@@ -36,12 +36,9 @@ WIN_COMBINATIONS =
   [2, 4, 6]
 ]
 def current_player(board)
-  previous_player = O
-  if previous_player == "O"
-    previous_player = "X"
-    return X
+  if turn_count(board) % 2 == 0
+    return "X"
   else
-    previous_player = "O"
     return "O"
   end
 end
