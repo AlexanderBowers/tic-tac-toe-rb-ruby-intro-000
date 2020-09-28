@@ -20,8 +20,7 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 puts "Welcome to Tic Tac Toe!"
 display_board(board)
 greeting(input)
-turn(board)
+Play(board)
 current_player(board)
 turn_count(board)
-play(board)
 congratulate(board)
