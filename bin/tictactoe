@@ -12,5 +12,4 @@ display_board(board)
 greeting(input)
 current_player(board)
 play(board)
-
 turn_count(board)
