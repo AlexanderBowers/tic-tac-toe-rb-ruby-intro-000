@@ -134,6 +134,3 @@ def winner(board)
   end
 end
 
-def congratulate(winner(board))
-puts "Congratulations Player #{winner(board)}!"
-end
