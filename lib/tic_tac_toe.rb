@@ -135,3 +135,4 @@ def winner(board)
 end
 
 def congratulate(winner(board))
+puts "Congratulations player #{winner(board)}"
