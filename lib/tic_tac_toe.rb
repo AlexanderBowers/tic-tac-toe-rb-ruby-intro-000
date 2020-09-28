@@ -134,7 +134,7 @@ def winner(board)
   end
 end
 
-def congratulate
+def congratulate(board)
   if winner(board) == "X"
     puts "Congratulations X!"
   elsif winner(board) == "O"
