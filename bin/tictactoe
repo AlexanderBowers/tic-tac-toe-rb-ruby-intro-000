@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-input = 0
+input = 10
 index = 1
 WIN_COMBINATIONS =
  [
